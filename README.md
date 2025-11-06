@@ -4,32 +4,29 @@
 
 
 ### Задание 1
-` Кеширование с использованием Redis или Memcached может решить проблемы, связанные с производительностью и масштабируемостью приложений. 
-Уменьшение нагрузки на базу данных и ускорение доступа к данным.
-Снижение времени отклика и повышение доступности.
-Обработка пиковых нагрузок и оптимизация сложных запросов.
-Кеширование статических ресурсов и результатов API.`
+![alt text](https://github.com/SLzDevOps/ELK-netology/blob/main/Screenshot_448.png)
+![alt text](https://github.com/SLzDevOps/ELK-netology/blob/main/Screenshot_449.png)
 
 
 ### Задание 2
 
-![alt text](https://github.com/SLzDevOps/netology_subd_2/blob/main/Screenshot_441.png)
-![alt text](https://github.com/SLzDevOps/netology_subd_2/blob/main/Screenshot_443.png)
+![alt text](https://github.com/SLzDevOps/ELK-netology/blob/main/Screenshot_450.png)
 
 ### Задание 3
 
-![alt text](https://github.com/SLzDevOps/netology_subd_2/blob/main/Screenshot_444.png)
+![alt text](https://github.com/SLzDevOps/ELK-netology/blob/main/Screenshot_452.png)
+![alt text](https://github.com/SLzDevOps/ELK-netology/blob/main/Screenshot_453.png)
+![alt text](https://github.com/SLzDevOps/ELK-netology/blob/main/Screenshot_454.png)
+![alt text](https://github.com/SLzDevOps/ELK-netology/blob/main/Screenshot_455.png)
 
 
 ### Задание 4
 
-![alt text](https://github.com/SLzDevOps/netology_subd_2/blob/main/Screenshot_445.png)
-![alt text](https://github.com/SLzDevOps/netology_subd_2/blob/main/Screenshot_446.png)
-![alt text](https://github.com/SLzDevOps/netology_subd_2/blob/main/Screenshot_447.png)
+![alt text](https://github.com/SLzDevOps/ELK-netology/blob/main/Screenshot_456.png)
+![alt text](https://github.com/SLzDevOps/ELK-netology/blob/main/Screenshot_457.png)
+![alt text](https://github.com/SLzDevOps/ELK-netology/blob/main/Screenshot_458.png)
 
-### Задание 5
 
-![alt text](https://github.com/SLzDevOps/netology_subd_2/blob/main/Screenshot_447.png)
 
 
 
